@@ -1,4 +1,4 @@
-name: harpersferry
+name: 'Harpers Ferry '
 favicon: null
 layout_spectrum: 0.50378
 typography_spectrum: 0.45618
@@ -34,7 +34,7 @@ color:
     - '#b4b5b0'
     - '#3e582b'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
