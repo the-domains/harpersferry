@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/92507573'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'By the end of the 19th century, the promise of freedom and equality for blacks had been buried by Jim Crow laws and legal segregation. To combat these injustices, Dr. W.E.B. Du Bois and other leading African-Americans created the Niagara Movement, which held its second conference (but first conference on American soil) on the campus of Storer College in 1906.'
-datePublished: '2016-03-20T16:34:10.916Z'
-dateModified: '2016-03-20T16:33:58.357Z'
+datePublished: '2016-03-20T18:31:49.592Z'
+dateModified: '2016-03-20T18:31:38.875Z'
 author:
   - name: Midge Flinn Yost
     url: 'http://vimeo.com/midge'
