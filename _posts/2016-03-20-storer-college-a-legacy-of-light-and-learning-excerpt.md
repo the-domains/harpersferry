@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/92506899'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'This is "Storer College: A Legacy of Light and Learning Excerpt" by midge on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-03-20T16:54:46.132Z'
-dateModified: '2016-03-20T16:53:54.715Z'
+datePublished: '2016-03-20T18:31:32.989Z'
+dateModified: '2016-03-20T18:31:24.807Z'
 author:
   - name: Midge Flinn Yost
     url: 'http://vimeo.com/midge'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: 'Storer College: A Legacy of Light and Learning Excerpt'
+sourcePath: _posts/2016-03-20-storer-college-a-legacy-of-light-and-learning-excerpt.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-20-storer-college-a-legacy-of-light-and-learning-excerpt.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
