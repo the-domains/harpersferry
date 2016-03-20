@@ -4,8 +4,22 @@
         <description><![CDATA[harpersferry]]></description>
         <link>https://thegrid.ai/harpersferry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 04:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 04:08:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harpersferry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.vimeocdn.com/video/472252040_590x332.jpg">]]></description>
+            <link>https://thegrid.ai/harpersferry/c3596387-f370-4af0-965d-542613bce671/index.html</link>
+            <guid isPermaLink="false">c3596387-f370-4af0-965d-542613bce671</guid>
+            <pubDate>Sun, 20 Mar 2016 04:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.vimeocdn.com/video/504877183_590x332.jpg">]]></description>
+            <link>https://thegrid.ai/harpersferry/38bfa37b-7e79-457e-baf5-f2d85ddee776/index.html</link>
+            <guid isPermaLink="false">38bfa37b-7e79-457e-baf5-f2d85ddee776</guid>
+            <pubDate>Sun, 20 Mar 2016 04:06:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Walk</p>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/harpersferry/blossom-time/index.html</link>
             <guid isPermaLink="false">0676169f-e498-4be1-9022-f48c064fa519</guid>
             <pubDate>Sun, 20 Mar 2016 03:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Journey Back ]]></title>
-            <description><![CDATA[<article><h1>Journey Back </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0b9a1db8f4c4798bc19edb993d4e155b943f493.jpg"></article>]]></description>
-            <link>https://thegrid.ai/harpersferry/journey-back/index.html</link>
-            <guid isPermaLink="false">2d3ac1ef-6f3b-4fe2-bf14-536034d4e97a</guid>
-            <pubDate>Sun, 20 Mar 2016 03:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Living with the Past - Residential Life in the Ferry]]></title>
-            <description><![CDATA[<article><h1>Living with the Past - Residential Life in the Ferry</h1><p>If you lived here you'd be home by now! Harpers Ferry residents typically share a love of the landscape, the history, and the hallowed ground they live on.  Many agree that they are temporary stewards of the older homes, and cherish the unique 18th century village.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41512f37e828937dd899d09d52bc303ba0d1227f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/harpersferry/living-with-the-past-residential-life-in-the-ferry/index.html</link>
-            <guid isPermaLink="false">8fd29787-4984-4e14-9e9a-14aceb96550a</guid>
-            <pubDate>Sun, 20 Mar 2016 03:36:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
