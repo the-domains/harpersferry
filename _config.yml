@@ -1,6 +1,6 @@
 name: 'Harpers Ferry '
 favicon: null
-layout_spectrum: 0.50378
+layout_spectrum: 1
 typography_spectrum: 0.90076
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#7f807a'
     - '#b4b5b0'
     - '#3e582b'
-  brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.125
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
