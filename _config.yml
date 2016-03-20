@@ -1,7 +1,7 @@
 name: 'Harpers Ferry '
 favicon: null
 layout_spectrum: 0.50378
-typography_spectrum: 0.45618
+typography_spectrum: 0.90076
 collections:
   - index:
       path: /
