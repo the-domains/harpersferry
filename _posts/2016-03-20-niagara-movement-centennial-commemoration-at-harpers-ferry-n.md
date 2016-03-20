@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'By the end of the 19th century, the promise of freedom and equality for blacks had been buried by Jim Crow laws and legal segregation. To combat these injustices, Dr. W.E.B. Du Bois and other leading African-Americans created the Niagara Movement, which held its second conference (but first conference on American soil) on the campus of Storer College in 1906.'
-datePublished: '2016-03-20T18:31:49.592Z'
-dateModified: '2016-03-20T18:31:38.875Z'
+datePublished: '2016-03-20T18:38:00.046Z'
+dateModified: '2016-03-20T18:31:56.765Z'
 author:
   - name: Midge Flinn Yost
     url: 'http://vimeo.com/midge'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: Niagara Movement Centennial Commemoration at Harpers Ferry National Historical Park
+sourcePath: _posts/2016-03-20-niagara-movement-centennial-commemoration-at-harpers-ferry-n.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-20-niagara-movement-centennial-commemoration-at-harpers-ferry-n.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
