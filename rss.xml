@@ -4,7 +4,7 @@
         <description><![CDATA[Harpers Ferry ]]></description>
         <link>https://thegrid.ai/harpersferry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 18:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 00:02:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harpersferry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Living with the Past - Residential Life in the Ferry]]></title>
@@ -26,6 +26,13 @@
             <link>https://vimeo.com/92506899</link>
             <guid isPermaLink="false">d8480d6e-22ea-405a-bb1a-f202be3de49d</guid>
             <pubDate>Sun, 20 Mar 2016 18:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wild and Wonderful Harpers Ferry: Filming the Great Blue Heron in Harpers Ferry WV with Filmmaker Midge Flinn Yost]]></title>
+            <description><![CDATA[<article><h1>Wild and Wonderful Harpers Ferry: Filming the Great Blue Heron in Harpers Ferry WV with Filmmaker Midge Flinn Yost</h1><p>All video footage filmed on location in Harpers Ferry, WV, by Midge Flinn Yost. A highlight of any nature lover's trip to Harpers Ferry, West Virginia, is to see the splendid Great Blue Heron in it's natural habitat.</p></article>]]></description>
+            <link>https://vimeo.com/159721711</link>
+            <guid isPermaLink="false">c4a7ad67-41d5-4b03-b458-f46913300e9d</guid>
+            <pubDate>Mon, 21 Mar 2016 00:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Return of the 126th New York]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/130033726</link>
             <guid isPermaLink="false">111474e5-fa76-41ec-b51a-549461cc9890</guid>
             <pubDate>Sun, 20 Mar 2016 04:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baptism]]></title>
-            <description><![CDATA[<article><h1>Baptism</h1><p>This is "Baptism" by midge on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ee5497af2efacb3f6b68ae0a43f89136db9ab26.jpg"></article>]]></description>
-            <link>https://vimeo.com/83448584</link>
-            <guid isPermaLink="false">14b6a578-e005-4b71-8848-5ecae72035c4</guid>
-            <pubDate>Sun, 20 Mar 2016 04:06:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
