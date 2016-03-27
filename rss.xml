@@ -4,7 +4,7 @@
         <description><![CDATA[Harpers Ferry ]]></description>
         <link>https://thegrid.ai/harpersferry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 18:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 18:24:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harpersferry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Living with the Past - Residential Life in the Ferry]]></title>
@@ -26,6 +26,13 @@
             <link>https://vimeo.com/92506899</link>
             <guid isPermaLink="false">d8480d6e-22ea-405a-bb1a-f202be3de49d</guid>
             <pubDate>Sun, 20 Mar 2016 18:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Historic Harpers Ferry Easter Egg Hung 2016]]></title>
+            <description><![CDATA[<article><h1>Historic Harpers Ferry Easter Egg Hung 2016</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f62d8c51626d3eb12dbd742fbbb3b5c3e1cfec1.jpg"></article>]]></description>
+            <link>https://vimeo.com/160533147</link>
+            <guid isPermaLink="false">5ac0b410-e4d6-438f-a2d3-e65978bf324e</guid>
+            <pubDate>Sun, 27 Mar 2016 18:23:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Friends of Harpers Ferry Civil War Battlefield Land Donation]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.washingtonpost.com/graphics/lifestyle/2015-regional-drives/</link>
             <guid isPermaLink="false">ca3714a5-8d70-4b26-b9bd-41f4a77bdd59</guid>
             <pubDate>Sun, 20 Mar 2016 17:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harpers Ferry Cemetery Eagle Scout project]]></title>
-            <description><![CDATA[<article><h1>Harpers Ferry Cemetery Eagle Scout project</h1><p>This is "Harpers Ferry Cemetery Eagle Scout project" by midge on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/920ff8e3b9cd734c27e80aa430194de5bd334945.jpg"></article>]]></description>
-            <link>https://vimeo.com/100325290</link>
-            <guid isPermaLink="false">73cfe030-f9c6-4e24-8668-6b2e635340fc</guid>
-            <pubDate>Sun, 20 Mar 2016 04:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
