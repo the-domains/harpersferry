@@ -1,40 +1,40 @@
-name: 'Harpers Ferry '
-favicon: null
-layout_spectrum: 0.25803
-typography_spectrum: 0.91399
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.7419355
+  brandStrength: 0
+  lightness: 0.5625
   brandColors:
     - '#000000'
     - '#7f7f87'
     - '#5e656b'
     - '#bbc8e4'
     - '#353430'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.3207885
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'Harpers Ferry '
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.530466
+layout_spectrum: 0.8763441
